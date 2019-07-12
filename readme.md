@@ -458,6 +458,7 @@
 - [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
 - [OSINT](https://github.com/jivoi/awesome-osint#readme) - Open Source Intelligence Tools and Resources
+- [Penetration Testing] - A collection of penetration testing resources.
 - [Security](https://github.com/sbilly/awesome-security#readme)
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 - [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
