@@ -451,6 +451,7 @@
 
 - [Android Security](https://github.com/ashishb/android-security-awesome#readme)
 - [Application Security](https://github.com/paragonie/awesome-appsec#readme)
+- [Burp Extensions](https://github.com/snoopysecurity/awesome-burp-extensions#readme)
 - [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
 - [Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
 - [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
