@@ -499,7 +499,9 @@
 - [Burp Extensions](https://github.com/snoopysecurity/awesome-burp-extensions#readme)
 - [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
 - [Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
+- [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 - [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+- [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
 - [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
 - [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
 - [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
@@ -508,15 +510,11 @@
 - [OSINT](https://github.com/jivoi/awesome-osint#readme) - Open Source Intelligence Tools and Resources
 - [Penetration Testing](https://github.com/meitar/awesome-pentest#readme) - A collection of penetration testing resources.
 - [Security](https://github.com/sbilly/awesome-security#readme)
+- [Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries) - Interesting, funny, and depressing search queries to plug into Shodan
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 - [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
 - [YARA](https://github.com/InQuest/awesome-yara#readme) - The pattern matching swiss knife for malware researchers (and everyone else)
-- [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
-- [Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
-- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
-- [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
-- [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
-- [Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries) - Interesting, funny, and depressing search queries to plug into Shodan
+
 
 ## Content Management Systems
 
